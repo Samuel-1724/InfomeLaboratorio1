@@ -85,13 +85,13 @@ Se comprueba que las leyes de Kirchhoff para voltajes es correcto y válido.
 | CORRIENTE  | Nodo  | 1  | Nodo  | 2  |
 | ------------ | ------------ | ------------ | ------------ | ------------ |
 |   | Calculado | Medido  | Calculado  | Medido  |
-| IT (mA)  | -2.05mA  | -2.05mA  |   |   |
-| IR1 (mA)  | 2.05 mA  | 2.05 mA  |   |   |
-| IR2 (mA)  | -1.086 mA  | -1.09 mA  |   |   |
-| IR3 (mA)  | -0.962 mA  |  -0.963 mA |   |   |
-|  IR4 (mA) | 0.962 mA  | 0.963 mA  |   |   |
-|  IR5 (mA) |   |   |   |   |
-| EI  |   |   |   |   |
- 
+| IT (mA)  | 2.05mA  | 2.05mA  | -2.05mA  | -2.05mA  |
+| IR1 (mA)  | 2.05 mA  | 2.05 mA  | 2.05 mA  | 2.05 mA  |
+| IR2 (mA)  | -1.086 mA  | -1.09 mA  |  1.086 mA |  1.09 mA |
+| IR3 (mA)  | -0.962 mA  |  -0.963 mA | 0.962 mA  | 0.963 mA  |
+|  IR4 (mA) | -0.962 mA  | -0.963 mA  | 0.962 mA  | 0.963 mA  |
+|  IR5 (mA) |  -2.05 mA |  -2.05 mA | -2.05 mA  | -2.05 mA  |
+| EI  | -3.01 mA = 0.964  | -3.016 mA = 0.966  | 3.01 mA = 0.94  | 2.986 mA = 0.936  |
 
+Se comprueba que las leyes de Kirchhoff para corrientes es correcto y válido.
 
