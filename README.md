@@ -105,3 +105,10 @@ Se comprueba que las leyes de Kirchhoff para corrientes es correcto y válido.
 Se logró determinar la definición de las leyes de Kirchhoff y ponerlas a prubeas. Se construyó de manera didtemática el circuito propuesto, y se analizó sus componentes, anotandolos y comparandolos en las tablas de medidas y cálculos. Por lo tanto, y viendo los resultados obtenido en las tablas, se concluye que efectivamente, la ley de Kirchhoff de voltajes y corrientes sirve y se la puede aplicar en cualquier circuito para conocer sus parámetros. El grado de error de cada tabla a sido el aceptado y se puede apreaciar tan solo en décimas.
 
 En conclusión, el circuito funciono de manera sencilla pero eficaz y ayudó en la comprobación de las leyes, siendo un ejemplo claro de su funcionamiento.
+
+**7. BIBLIOGRAFÍA**
+- Jofo. (14 de Noviembre de 2021). Tinkercad. Obtenido de https://www.tinkercad.com/dashboard?type=tinkercad&collection=designs
+
+- Willy, M. (12 de Septiembre de 2012). Khanacademy. Obtenido de https://es.khanacademy.org/science/physics/circuits-topic/circuits-resistance/a/ee-kirchhoffs-laws
+
+- Willy, M. (13 de Octubre de 2012). Khanacademy. Obtenido de https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-mesh-current-method
