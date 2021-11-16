@@ -1,4 +1,4 @@
-# InfomeLaboratorio1
+# InformeLaboratorio1
 **1. TEMA:**
 
 Leyes de Kirchhoff
