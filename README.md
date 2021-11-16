@@ -65,19 +65,33 @@ En este caso, le energía corre por el cable positivo, yendo por los cables verd
 [![drf.png](https://i.postimg.cc/TYf3VbnQ/drf.png)](https://postimg.cc/kDYC9B1t)
 *Midiendo el voltaje de la resistencia 3*
 
-**5.2.** Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada,
-considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con
-signo negativo.
+**5.2.** Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada, considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con signo negativo.
 
-| VOLTAJE  |  Trayectoria | 1  | Trayectoria  |  2 | Trayectoria  | 3  |
-| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
-|   | Calculado  | Medido  | Calculado  | Medido  | Calculado  | Medido  |
-| VT (V)  |    |   |   |   |   |   |
-|  VR1 (V) |   |   |   |   |   |   |
-| VR2 (V)  |   |   |   |   |   |   |
-| VR3 (V)  |   |   |   |   |   |   |
-| VR4 (V)  |   |   |   |   |   |   |
-| VR5 (V) |   |   |   |   |   |   |
-| Ev   |   |   |   |   |   |   |
+| VOLTAJE  |  Trayectoria | 1  | Trayectoria  |  2 | 
+| ------------ | ------------ | ------------ | ------------ | ------------ |  
+|   | Calculado  | Medido  | Calculado  | Medido  | 
+| VT (V)  |  -10 V  | -10 V | 10 V  | 10 V  |  
+|  VR1 (V) | -2.05 V  | -2.05 V   |2.05 V   | 2.05 V  |   
+| VR2 (V)  | 4.237 V   | 4.24 V  | -4.237 V  | -4.24 V  |  
+| VR3 (V)  | 2.11 V  |  2.12 V  |-2.11 V  |  -2.12 V |   
+| VR4 (V)  | 2.11 V  | 2.12 V  | -2.11 V  | -2.12 V  |  
+| VR5 (V) | 3.69 V  | 3.69 V  |  -3.69 V |  -3.69 V |  
+| Ev   | 10.097 V =0.097  | 10.13 V=0.13  | -10.09 V = 0.097  | -10.1 V = 0.13 |  
+
+Se comprueba que las leyes de Kirchhoff para voltajes es correcto y válido.
+
+**5.3.** Verificar si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando con signo positivo las corrientes que entran al nodo y con signo negativo las que salen del nodo.
+
+| CORRIENTE  | Nodo  | 1  | Nodo  | 2  |
+| ------------ | ------------ | ------------ | ------------ | ------------ |
+|   | Calculado | Medido  | Calculado  | Medido  |
+| IT (mA)  | -2.05mA  | -2.05mA  |   |   |
+| IR1 (mA)  | 2.05 mA  | 2.05 mA  |   |   |
+| IR2 (mA)  | -1.086 mA  | -1.09 mA  |   |   |
+| IR3 (mA)  | -0.962 mA  |  -0.963 mA |   |   |
+|  IR4 (mA) | 0.962 mA  | 0.963 mA  |   |   |
+|  IR5 (mA) |   |   |   |   |
+| EI  |   |   |   |   |
+ 
 
 
