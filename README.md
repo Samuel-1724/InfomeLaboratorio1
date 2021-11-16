@@ -12,6 +12,11 @@ Kirchhoff de Corrientes.
 
 **2.2. Objetivos Específicos**
 
+- Explicar que son las leyes de Kirchhoff y cómo funcionan.
+- Realizar el circuito propuesto de manera correcta y explicandolo paso a paso.
+- Conseguir los datos necesarios para plasmarlos en las tablas y medirlos en el circuito con la herramienta indicada.
+- Comprobar la veracidad de las leyes de Kirchhoff
+
 **3. MARCO TEÓRICO**
 
 **3.1. Las Leyes de Kirchhoff**
@@ -39,7 +44,7 @@ Son dos igualdades que se basan en la conservación de la energía y la carga en
 
 En este caso, le energía corre por el cable positivo, yendo por los cables verdes y topandose con las distintas resistencias. Hasta cerrar el circuito con el cable negro, en tierra.
 
-**5. RESULTADOS OBTENIDOS Y CÁLCULO DE ERROR.**
+**5. RESULTADOS OBTENIDOS**
 
 **5.1**. Medir el voltaje y corriente en cada uno de los elementos del circuito, y anotar los resultados de las mediciones en la tabla.
 
@@ -95,3 +100,8 @@ Se comprueba que las leyes de Kirchhoff para voltajes es correcto y válido.
 
 Se comprueba que las leyes de Kirchhoff para corrientes es correcto y válido.
 
+**6. CONCLUSIONES**
+
+Se logró determinar la definición de las leyes de Kirchhoff y ponerlas a prubeas. Se construyó de manera didtemática el circuito propuesto, y se analizó sus componentes, anotandolos y comparandolos en las tablas de medidas y cálculos. Por lo tanto, y viendo los resultados obtenido en las tablas, se concluye que efectivamente, la ley de Kirchhoff de voltajes y corrientes sirve y se la puede aplicar en cualquier circuito para conocer sus parámetros. El grado de error de cada tabla a sido el aceptado y se puede apreaciar tan solo en décimas.
+
+En conclusión, el circuito funciono de manera sencilla pero eficaz y ayudó en la comprobación de las leyes, siendo un ejemplo claro de su funcionamiento.
